@@ -26,8 +26,7 @@ For this exercise:
 <hr/>
 
 ### Solution
-Follow the instructions above
-<b>go to rustlings/exercises/variables and delete the I AM NOT DONE comment to get started</b>
+I started by doing a fresh set up of code from section 1 lab 1.
 
 
 <br/> <br/> 
@@ -36,6 +35,3 @@ Follow the instructions above
 For seeing printouts while testing use.<br/> 
 <code>cargo test -- --nocapture</code>
 
-
-<br/> <br/> 
-Also the deliverable (a screen shot) is in this dir.
