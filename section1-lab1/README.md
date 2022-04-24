@@ -24,4 +24,4 @@ Set up the base code by following these docs
 <br/>
 you dont have to deploy anything. once you get the code on your computer you can go ahead and start working on the tasks.
 <br/> <br/> 
-Annotated code is in src. you only have to edit msg.rs and contract.rs for this
+<b>Annotated code is in src. you only have to edit msg.rs and contract.rs for this. Every change made from the boilerplates is preceeded by a commented blurb explaining the change with the prefix "[CHANGE]" (baller tip, use ctrl+f)  <b>
