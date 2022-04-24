@@ -1,4 +1,5 @@
 ### Assignment
+<i>
 Before we dive into specific aspects of development, try getting your feet wet by adding the following functionality to the template contract, depending on your level of programming expertise.
 <br/><br/> 
 Level 1: Currently the only query available is the current count. Add the ability to query who the current owner is. You might want to start in the msg.rs file. When you're done, make sure the contract compiles with cargo test.
@@ -11,7 +12,7 @@ Submit your working zipped code (src folder) below.
 
 
 Do this (click the links and follow the docs)
-
+</i>
 <hr/>
 
 ### How to complete this
