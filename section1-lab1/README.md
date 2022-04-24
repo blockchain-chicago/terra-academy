@@ -15,7 +15,7 @@ Do this (click the links and follow the docs)
 </i>
 <hr/>
 
-### How to complete this
+### Solution
 Set up the base code by following these docs
 1. [Download rust and others](https://docs.terra.money/docs/develop/dapp/quick-start/initial-setup.html)
 2. [Deploy hello world project on test net and make your first DApp](https://docs.terra.money/docs/develop/dapp/quick-start/using-terrain-testnet.html)
