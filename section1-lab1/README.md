@@ -10,8 +10,6 @@ Level 3: Add tests which ensure the new functionality works. cargo test now shou
 <br/>
 Submit your working zipped code (src folder) below.
 
-
-Do this (click the links and follow the docs)
 </i>
 <hr/>
 
