@@ -36,6 +36,3 @@ Follow the instructions above
 For seeing printouts while testing use.<br/> 
 <code>cargo test -- --nocapture</code>
 
-
-<br/> <br/> 
-Also the deliverable (a screen shot) is in this dir.
