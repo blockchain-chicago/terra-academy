@@ -22,3 +22,7 @@ Follow the instructions above
 
 <br/> <br/> 
 <b>Annotated code is in this dir. Every change made from the boilerplates is preceeded by a commented blurb explaining the change with the prefix "[CHANGE]" (baller tip, use ctrl+f)  <b>
+
+
+<br/> <br/> 
+Also the deliverable (a screen shot) is in this dir.
